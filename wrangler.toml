@@ -1,0 +1,6 @@
+name = "incorrect-quotes"
+main = "out.js"
+workers_dev = true
+compatibility_date = "2022-05-04"
+[build]
+command = "node parse.js"

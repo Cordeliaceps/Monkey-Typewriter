@@ -1,8 +1,0 @@
-name = "incorrect-quotes"
-type = "javascript"
-
-# account_id = "<<YOUR ACCOUNT ID>>"
-workers_dev = true
-route = ""
-zone_id = ""
-compatibility_date = "2022-05-04"
