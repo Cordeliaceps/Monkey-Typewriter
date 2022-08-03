@@ -1728,7 +1728,7 @@ Everyone:
 {A}: I wasn't hurt that badly. The doctor said all my bleeding was internal. That's where the blood's supposed to be.
 
 {A}: You look like a corpse that was just pulled out of the river.
-{B}: Wrong. I look like a cool rock star who just OD'd in his own pool. Big difference.
+{B}: Wrong. I look like a cool rock star who just OD'd in their own pool. Big difference.
 
 {A}: {B}, can I speak to you for a minute? In private.
 {B}: Ooh, someone's in trouble. It's me. I don't know why I did that.
@@ -1967,7 +1967,7 @@ Everyone:
 *In the chip aisle at Walmart, doing a late-night grocery run.*
 {A}: *Minding my own business, looking for tortilla chips.*
 {A}: *Finds tortilla chips.*
-{B}, to {C}: See, she knows what she's here for. She knows what she's doing. Be more like her. MAKE A DECISION, {C}.
+{B}, to {C}: See, they know what they're here for. They know what they're doing. Be more like them. MAKE A DECISION, {C}.
 
 {A}: Is 4 a lot?
 {B}: Depends on the context. Berries? No. Murders? Yes.
@@ -2052,9 +2052,9 @@ Everyone:
 {A}: No.
 {B}: Then suffer in silence.
 
-{A}: You guys just got back together. You might not want to ditch her on her birthday.
+{A}: You guys just got back together. You might not want to ditch them on their birthday.
 {B}: I think {A} has a point. You can see it another day.
-{C}: But someone might spoil the movie. No one can spoil {D}'s birthday for me. Surprise, (s)he's even older. Who saw that coming?
+{C}: But someone might spoil the movie. No one can spoil {D}'s birthday for me. Surprise, they're even older. Who saw that coming?
 {A}: Aww, that's nice. Put that on their cake.
 
 {A}: Actually, {B}, I think {C} and I were kind of hoping we could work the case together.
@@ -3617,7 +3617,7 @@ Kidnapper: Then who just called me a lowlife bitch and spit in my face?
 {B}: Look, I'll make this real simple so even these dumdums can understand.
 {B}, to the jury: MAN DID CRIME.
 *flashback to Testimony #2*
-{B}: I'm sorry, could you make her stop doing that weird thing with her face?
+{B}: I'm sorry, could you make them stop doing that weird thing with their face?
 Defense Attorney, next to the crying defendant: ...Crying?
 *flashback to Testimony #3*
 {B}: And when this is over, I'm gonna *find* you and I'm gonna *break* those little fingers.
@@ -3758,9 +3758,9 @@ Judge: Could the witness *please* stop threatening the stenographer?
 {A}: State your name, rank, and intention.
 {B}: {B}, {B}, fun.
 
-{A}: So, she kissed me.
-{B}: And you kissed her back?
-{A}: No, I kissed her mouth.
+{A}: So, they kissed me.
+{B}: And you kissed them back?
+{A}: No, I kissed their mouth.
 
 {A}: How did you break your leg?
 {B}: Do you see those porch stairs?
@@ -8166,7 +8166,7 @@ Everyone else: *blank stares*
 
 {A}, singing to the tune of I Kissed a Girl: I killed a guy, and I liked it-
 {B}, whispering: Should we call the exorcist?
-{C}, also singing:The taste of his cherry chapstick.
+{C}, also singing: The taste of his cherry chapstick.
 {D}, appalled: Call the exorcist.
 
 {A}, texting in the group chat: I wonder what Apple shots would look like?
@@ -8645,7 +8645,7 @@ The Squad:
 
 {A}: You're just jealous. All my friends tell me I remind them of {D}.
 The Squad: *screaming*
-{B}: She looks like {D}? Are you out of your fucking MIND?
+{B}: They looks like {D}? Are you out of your fucking MIND?
 {C}: {D}, sweetie, I am SO sorry. I am SO SORRY that an ugly-ass bitch like this would even say that. Oh my god.
 {B}: {D}? {D}? {D}? You know who you fucking look like? You fucking look like {E}!
 
