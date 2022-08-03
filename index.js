@@ -111,7 +111,10 @@ function shuffle(array) {
 }
 /** @returns {string} */
 function handleBody(body) {
-    const people = shuffle(body.data.options.map(x => x.value));
+    const people = shuffle((body.data.options??[]).map(x => x.value));
+    if(people.length === 0) {
+        return "Hey Ryan you dumbass you have to put in people's names";
+    }
     const quotesOfLength = quotes[people.length - 1]
     return quotesOfLength[Math.floor(Math.random()*quotesOfLength.length)]
         .replaceAll(/{([A-G])}/g, (_, l) => people["ABCDEFG".indexOf(l)]);
