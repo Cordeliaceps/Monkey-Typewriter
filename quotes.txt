@@ -9401,7 +9401,7 @@ Everyone: ...What?
 {C}: Your face looks like a don't walk signal.
 {D}: Your face looks like a photo negative for the hamburger helper box.
 {E}: A palm reader could tell {B}'s future by looking at your face.
-{F}: The phrase 'talk to teh hand cause the face ain't listening' doesn't work for you, because the hand is your face.
+{F}: The phrase 'talk to the hand cause the face ain't listening' doesn't work for you, because the hand is your face.
 {A}: ...A simple 'yes' would've sufficed.
 
 {A}: We have a problem.
