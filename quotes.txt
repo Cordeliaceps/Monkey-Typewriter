@@ -8463,9 +8463,9 @@ Police: Wha-
 {B}: They got {C}.
 
 {A}: What's up with {B}? They've been laying on the floor for like....an hour now?
-{B}: They're just a little overwhelmed.
+{C}: They're just a little overwhelmed.
 {A}: Why?
-{B}: {C} smiled at them.
+{C}: {D} smiled at them.
 
 {A}: What's wrong? You look 10 seconds away from ripping someone's throat out.
 {B}: Fucking {C} and {D} were trying to invoke one of the minor gods again last night. I didn't get an ounce of sleep, thanks to their bloody chanting.
