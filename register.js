@@ -15,11 +15,16 @@ fetch(`https://discord.com/api/v9/applications/${applicationId}/commands`, {
     body: JSON.stringify({
         name: "iquote",
         description: "Generate an incorrect quote",
-        options: "abcdef".split("").map(l => ({
+        options: [..."abcdef".split("").map(l => ({
             type: 3,
             name: `person_${l}`,
             description: `Person ${l}`,
             required: l === "A"
-        }))
+        })), {
+            type: 4,
+            name: "debug",
+            description: "[DEBUG] Pick a specific quote",
+            required: false
+        }]
     })
 }).then(x => x.text()).then(x => console.log(x))

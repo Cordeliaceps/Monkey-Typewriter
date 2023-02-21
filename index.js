@@ -111,11 +111,10 @@ function shuffle(array) {
 }
 /** @returns {string} */
 function handleBody(body) {
-    const people = shuffle((body.data.options??[]).map(x => x.value));
-    if(people.length === 0) {
-        return "Hey dumbass you have to put in people's names";
-    }
+    let people = (body.data.options??[]).filter(x => /person_./.test(x.name)).map(x => x.value);
+    const i = (body.data.options??[]).filter(x => x.name === "debug").map(x => x.value)[0];
+    if(i === undefined) people=shuffle(people);
     const quotesOfLength = quotes[people.length - 1]
-    return quotesOfLength[Math.floor(Math.random()*quotesOfLength.length)]
+    return quotesOfLength[i ?? Math.floor(Math.random()*quotesOfLength.length)]
         .replaceAll(/{([A-G])}/g, (_, l) => people["ABCDEFG".indexOf(l)]);
 }
